@@ -32,3 +32,6 @@ I will improve myself by completing 1 chapter every day and then with projects. 
         Sunucu, bu dosyaları küçük veri paketleri halinde tarayıcıya gönderir.
     -6.Adım: Tarayıcı Görüntüler
         Tarayıcı, gelen HTML dosyasını okur, CSS ile stil verir, JavaScript ile etkileşim ekler.
+
+
+# Day 2 / Gün 2 
