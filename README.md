@@ -44,7 +44,8 @@ I will improve myself by completing 1 chapter every day and then with projects. 
    - Formatlama
    - Layout
    - Form Tagleri
-   - HTML 5 ile gelen Form Tagleri
+   - HTML 5 ile gelen Form Tagleri 
+
 ( Bu kısımları bildiğim için açıklamaları uzun yazmıyorum )
 
 # Day 3 / Gün 3
@@ -56,7 +57,8 @@ I will improve myself by completing 1 chapter every day and then with projects. 
   - Tablolarla Eventlerle çalışmak
   - İnputlarla çalışmak
   - Class yapısı
-  - İd yapısı
+  - İd yapısı 
+
 ( Bu kısımları bildiğim için açıklamaları uzun yazmıyorum )
 
   
