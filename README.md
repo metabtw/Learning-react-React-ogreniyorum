@@ -36,5 +36,27 @@ I will improve myself by completing 1 chapter every day and then with projects. 
 
 # Day 2 / Gün 2 
 
+ İkinci gün HTML 5 anlatıldı konu başlıkları :
+   - HTML nedir
+   - Temel HTML etiketleri
+   - Linklerle çalışmak
+   - Toblolarla çalışmak
+   - Formatlama
+   - Layout
+   - Form Tagleri
+   - HTML 5 ile gelen Form Tagleri
+( Bu kısımları bildiğim için açıklamaları uzun yazmıyorum )
 
 # Day 3 / Gün 3
+
+Üçüncü gün CSS3 anlatıldı konu başlıkları : 
+  - CSS nedir
+  - Temel CSS kullanımları
+  - CSS özellekikleri ile çalışmak
+  - Tablolarla Eventlerle çalışmak
+  - İnputlarla çalışmak
+  - Class yapısı
+  - İd yapısı
+( Bu kısımları bildiğim için açıklamaları uzun yazmıyorum )
+
+  
