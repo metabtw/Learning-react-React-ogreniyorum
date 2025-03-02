@@ -35,3 +35,6 @@ I will improve myself by completing 1 chapter every day and then with projects. 
 
 
 # Day 2 / Gün 2 
+
+
+# Day 3 / Gün 3
