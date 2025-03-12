@@ -61,4 +61,31 @@ I will improve myself by completing 1 chapter every day and then with projects. 
 
 ( Bu kısımları bildiğim için açıklamaları uzun yazmıyorum )
 
-  
+
+# Day 4 / Gün 4
+
+Bootstrap Eğitimi:
+
+-1 Bootstrap Nedir? - Neler Yapabiliriz?
+Bootstrap, responsive (duyarlı) ve mobil öncelikli web siteleri tasarlamak için kullanılan popüler bir CSS ve JavaScript framework'üdür. Önceden hazırlanmış bileşenler (butonlar, formlar, navigasyon çubukları vb.) ve grid sistemi sayesinde hızlı ve tutarlı arayüzler oluşturabilirsiniz. Ayrıca, tarayıcı uyumluluğu sağlamak gibi teknik detaylarla uğraşmadan profesyonel tasarımlar yapabilirsiniz.
+
+-2 Bootstrap Yaşam Döngüsünü Anlamak Ve Şablon Giydirmek
+Bootstrap projeleri genellikle temel bir şablon (template) üzerine kurulur. Bu şablon, HTML yapısını, CSS ve JavaScript bağlantılarını içerir. "Şablon giydirmek" ise bu temel yapıyı özelleştirerek kendi tasarımınıza uyarlamak anlamına gelir. Bootstrap’in bileşenlerini kullanırken, class’ları ve stilleri değiştirerek projenize özgü bir görünüm elde edebilirsiniz.
+
+-3 Container - Layout Ve Grid Mimarisi
+Bootstrap’in grid sistemi, 12 sütunlu bir yapı üzerine kuruludur. container, row, ve col sınıfları ile responsive tasarımlar oluşturabilirsiniz. Örneğin, col-md-6 class’ı, orta boy ekranlarda iki eşit sütunlu bir düzen sağlar. Container’lar ise içerikleri hizalamak ve kenar boşluklarını yönetmek için kullanılır. Bu yapı, mobil uyumlu sayfalar için kritiktir.
+
+-4 Tablolarla Çalışmak
+Bootstrap, tabloları stilize etmek için table, table-striped, table-bordered gibi hazır sınıflar sunar. Bu sınıflarla tablolarınıza renk, kenarlık ve hover efektleri ekleyebilirsiniz. Ayrıca responsive tablolar için table-responsive class’ını kullanarak küçük ekranlarda kaydırılabilir tablolar oluşturabilirsiniz.
+
+-5 Dropdown İle Çalışmak
+Dropdown menüler, kullanıcı etkileşimi için önemli bileşenlerdir. Bootstrap’te dropdown, dropdown-toggle, ve dropdown-menu sınıfları ile açılır menüler oluşturabilirsiniz. JavaScript entegrasyonu sayesinde tıklama veya hover ile menüleri aktif hale getirebilirsiniz.
+
+-6 Formlarla Çalışmak
+Formlar, veri toplama süreçlerinin temelidir. Bootstrap, form elemanlarını düzenlemek için form-group, form-control gibi sınıflar sunar. Bu yapı, input’ları hizalamayı ve responsive formlar oluşturmayı kolaylaştırır. Ayrıca doğrulama (validation) stilleri ile kullanıcı dostu formlar tasarlayabilirsiniz.
+
+-7 İnputlarla Çalışmak
+Input alanları, metin girişleri, şifre alanları, tarih seçiciler gibi çeşitli tiplerde olabilir. Bootstrap’te input’ları form-control class’ı ile stilize edebilirsiniz. Boyutlandırma (form-control-lg veya form-control-sm) ve özel input grupları (input-group) ile daha etkileşimli alanlar oluşturabilirsiniz.
+
+-8 Listelerle Çalışmak
+Bootstrap, sıralı ve sırasız listeleri özelleştirmek için list-group sınıfını kullanır. list-group-item ile her bir liste öğesini stillendirebilir, renk veya hover efektleri ekleyebilirsiniz. Ayrıca, liste gruplarını bağlantılar (link) veya butonlarla birleştirerek interaktif menüler tasarlayabilirsiniz.
