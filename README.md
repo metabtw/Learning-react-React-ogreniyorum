@@ -89,3 +89,23 @@ Input alanları, metin girişleri, şifre alanları, tarih seçiciler gibi çeş
 
 -8 Listelerle Çalışmak
 Bootstrap, sıralı ve sırasız listeleri özelleştirmek için list-group sınıfını kullanır. list-group-item ile her bir liste öğesini stillendirebilir, renk veya hover efektleri ekleyebilirsiniz. Ayrıca, liste gruplarını bağlantılar (link) veya butonlarla birleştirerek interaktif menüler tasarlayabilirsiniz.
+
+// UZUN BİR ARADAN SONRA DEVAM
+
+# GÜN 5
+
+JavaScript ES6+ 
+Temel bilgim olduğu için hızlı ilerlediğim bir ders oldu.
+
+-Temel operasyonlar ve veri tiplerle çalışmak 1:
+Web kısmındaki f12 ile console kısmında temel operatörleri anlattı 
+
+-Temel operasyonlar ve veri tiplerle çalışmak 2:
+Web kısmındaki f12 ile console kısmında "var" keyword'ü nasıl kullanıcağımızı anlattı. Kullanıcıdan nasıl değer alacağımızı da anlattı.Tip dönüşümünü anlattı.
+
+-Şart Bloklarına Giriş :
+"if-else" kullanımını anlattı."alert" syntax'ını anlattı.
+
+
+
+
