@@ -103,9 +103,25 @@ Web kısmındaki f12 ile console kısmında temel operatörleri anlattı
 -Temel operasyonlar ve veri tiplerle çalışmak 2:
 Web kısmındaki f12 ile console kısmında "var" keyword'ü nasıl kullanıcağımızı anlattı. Kullanıcıdan nasıl değer alacağımızı da anlattı.Tip dönüşümünü anlattı.
 
--Şart Bloklarına Giriş :
-"if-else" kullanımını anlattı."alert" syntax'ını anlattı.
+-Şart Bloklarına Giriş 1-2 :
+"if-else-else if" kullanımını anlattı."alert" syntax'ını anlattı.'Ve , Veya' ile şart bloklarını anlattı.
 
+-Fonksiyonlarla Çalışmak : 
+Foknsiyon nasıl yazılır nasıl çağrılır return ifadesini parametreleri anlattı.Sürekli aynı komutları yazmamak için önemli
+
+-Diziler : 
+Dizinin tanımını anlattı ne için kullanıldığını anlattı. nasıl tanımlanacağını ve nasıl kullanılacağını anlattı. dizi içine fonksiyon tanımlamayı anlattı. 
+
+-Dizi Fonksiyonlarıyla çalışmak :
+  -"pop" son elemanı almayı anlattı.
+  -"shift" diziyi sola doğru kaydırır
+  -"push" diziye ekleme
+  -"concat" iki diziyi birleştiriyor
+  -"sort" son elemanı başta yazar
+  -"length" dizi uzunluğu
+
+-Nesnelerle çalışmak : 
+Nesnenin nasıl tanımlandığını ve nasıl kullanılacağını anlattı.içinde diziyi nasıl tutacağımızı anlattı.fonksiyonu nasıl tutarız onu anlattı.
 
 
 
