@@ -123,5 +123,7 @@ Dizinin tanımını anlattı ne için kullanıldığını anlattı. nasıl tanı
 -Nesnelerle çalışmak : 
 Nesnenin nasıl tanımlandığını ve nasıl kullanılacağını anlattı.içinde diziyi nasıl tutacağımızı anlattı.fonksiyonu nasıl tutarız onu anlattı.
 
+# Gün 6 
+Recap Demo uygulamasını yaptım 
 
 
